@@ -1,0 +1,14 @@
+body::-webkit-scrollbar-thumb { 
+    background-color: #DF6951; /* Set the color of the thumb */
+    border-radius: 10px; /* Set the border radius to round the thumb */
+}
+
+/* Define the scrollbar track */
+body::-webkit-scrollbar-track {
+    background-color: #1E1D4C; /* Set the color of the track */
+}
+
+/* Hide the default scrollbar */
+body::-webkit-scrollbar {
+    width: 8px; /* Set the width of the scrollbar */
+}
